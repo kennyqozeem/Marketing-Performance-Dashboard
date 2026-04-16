@@ -194,13 +194,10 @@ Replace the existing data source under **Home → Transform Data → Data Source
 ## 📬 Contributing
 
 1. Fork this repository.
-2. Create a feature branch: `git checkout -b feature/your-feature-name`
-3. Commit your changes: `git commit -m "Add your message"`
-4. Push to the branch: `git push origin feature/your-feature-name`
+2. Create a feature branch: `git checkout -b feature/Marketing-Performance-Dashboard`
+3. Commit your changes: `git commit -m "Describe what you changed"`
+4. Push to the branch: `git push origin feature/Marketing-Performance-Dashboard`
 5. Open a Pull Request.
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
